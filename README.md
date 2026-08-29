@@ -59,14 +59,14 @@ The "pwd" command displays the current working directory, while "ls" lists its c
 The screenshots uploaded in this repository show proof that each task was completed successfully.
 
 ## basic command
-  mkdir
-  cd
-  ls
-  touch
-  echo
-  cat
-  cp
-  mv
-  rm
-  pwd
+mkdir
+cd
+ls
+touch
+echo
+cat
+cp
+mv
+rm
+pwd
 This task improved my understanding of basic Linux file management and these commands are important linux fundamentals for cybersecurity and ethical hacking
